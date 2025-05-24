@@ -8,7 +8,7 @@
 <h2>📺Product Design Projects </h2>
 
 - <b>Travel App</b>
-  - [Designed a solo travel app](https://www.youtube.com/watch?v=a83ASGn_V_s)
+  - [Designed a solo travel app](https://myfol.io/whizikem )
 
 <h2>📜 Certifications </h2>
 
