@@ -2,17 +2,20 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>MediQuest</b>
+  - [Health symptom checker webapp (ALX_Africa Group Project)](https://github.com/WhizIkem/mediquest)
 
 <h2>📺Product Design Projects </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- <b>Travel App</b>
+  - [Designed a solo travel app](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
-<h2>📜 Certifications </h2>  
--  <b> Fullstack Software Engineering 2023 </b>
+<h2>📜 Certifications </h2>
+
+- <b> Fullstack Software Engineering 2023 </b>
   - [ALX_Africa](https://drive.google.com/file/d/19MlXkvqQ7kI7fCU9RaT-kcY-17bbFLeT/view?usp=sharing)
--  <b> UX Designer 2024 </b>  
+
+- <b> UX Designer 2024 </b>
   - [Entrylevel](https://drive.google.com/file/d/1MgyOgSizcyrxaWDs4QomDMhvwfipOIzY/view?usp=sharing)
   
 <h2> 🤳 Connect with me:</h2>
