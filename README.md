@@ -64,7 +64,7 @@ I build intelligent systems using **Natural Language Processing (NLP)**, traditi
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626%20?style=for-the-badge&logo=Jupyter&logoSize=auto&labelColor=4D4D4D) ![VS Code](https://img.shields.io/badge/vs%20code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoSize=auto&labelColor=007ACC) ![Git](https://img.shields.io/badge/git-F1502F?style=for-the-badge&logo=git&logoSize=auto&labelColor=3E2C00)
  ![Github](https://img.shields.io/badge/github-000000?style=for-the-badge&logo=github&logoSize=auto&labelColor=000000)
 
-### **Product and UX**
+### **Product Design**
 ![UI/UX design](https://img.shields.io/badge/UI%2FUX%20Design-000000?style=for-the-badge&logo=UI%2FUX%20Design&logoSize=auto&labelColor=000000) ![Product thinking](https://img.shields.io/badge/Product%20thinking-000000?style=for-the-badge&logo=UI%2FUX%20Design&logoSize=auto&labelColor=000000) ![Static Badge](https://img.shields.io/badge/prototyping-000000?style=for-the-badge&logo=prototyping&logoSize=auto&labelColor=000000) ![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoSize=auto&labelColor=1ABCFE)
 
 ---
