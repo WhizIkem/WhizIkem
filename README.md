@@ -20,7 +20,7 @@ I build intelligent systems using **Natural Language Processing (NLP)**, traditi
 ### **[AI-Powered SMS Spam Classifier (NLP + ML)](https://github.com/WhizIkem/AI-Powered-Spam-Classifier)**  
   - Built a full ML pipeline to classify SMS as spam or ham  
   - Used TF-IDF + models like SVM, Naive Bayes, Logistic Regression, Random Forest, XGBoost  
-  - Explored advanced NLP with <b>BERT, DistilBERT, RoBERTa</b> embeddings  
+  - Explored advanced NLP with BERT, DistilBERT, RoBERTa embeddings  
   - Evaluated with Accuracy, Precision, Recall and F1-Score
 
 ---
