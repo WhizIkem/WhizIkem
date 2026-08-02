@@ -1,7 +1,6 @@
 # 🌟 Chinedu Wisdom Ikem 🌟
 ### **[Machine Learning Engineer](https://github.com/whizikem) | [Product Designer](https://myfol.io/whizikem) | [Visual Artist](https://bit.ly/whizikem)**
-Welcome to my GitHub! I’m a passionate **Machine Learning (ML) Engineer** with a strong focus on **FinTech Innovation**.  
-I build intelligent systems using **Natural Language Processing (NLP)**, traditional **ML Models**, and modern **Transformer Architectures** to solve real-world challenges such as fraud prevention, spam and scam detection, financial risk analytics, and automated decision systems. 🚀
+Welcome to my GitHub! I’m an aspiring **Quantitative Analyst** with a background in finance, accounting, and technology. I use statistical analysis, machine learning, and financial modelling to explore market behaviour, assess risk, develop predictive models, and support data-driven decisions. My work spans quantitative finance, FinTech, fraud analytics, forecasting, and digital assets, with a growing interest in systematic trading and quantitative research.🚀
 
 ---
 
